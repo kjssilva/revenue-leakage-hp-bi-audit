@@ -24,7 +24,7 @@ Using a Python-based Revenue Leakage Model, I simulated the financial impact of 
 
    - Metric 2 (Revenue Leakage): Estimated a monthly loss of $630,000 for every 10,000 high-intent visitors.
 
-  -  Metric 3 (CLV Erosion): Projected an annual Customer Lifetime Value loss of $18.9M due to brand switching.
+  -  Metric 3 (CLV Erosion): Projected an annual Customer Lifetime Value loss of ~$18.9M driven by increased brand switching following high-friction user experiences
 
 ## 🚀 Proposed BI Solutions
 
