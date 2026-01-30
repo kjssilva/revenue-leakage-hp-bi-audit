@@ -43,4 +43,4 @@ As a BI Consultant, I proposed the following technical interventions:
    *Goal: Immediate visibility into broken funnels before they reach the quarterly earnings report.# revenue-leakage-hp-bi-audit
 
 ##  Visualization
-![Chart]()
+![Chart](images/Code_Generated_Image.png)
