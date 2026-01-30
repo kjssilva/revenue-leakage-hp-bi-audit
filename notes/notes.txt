@@ -1,0 +1,17 @@
+Here, you will find some of my base data for my analysis. 
+
+   Total Intent Traffic (T): Total users landing on the trade-in page (via Google or Chatbot).
+
+    Historical Conversion Rate (CR): The average electronics conversion rate (industry standard is ~3.6% in 2026 for high-intent shoppers).
+
+    Average Order Value (AOV): The price of a new high-performance laptop ($1,500 – $2,500).
+
+    Churn Probability (P): The likelihood a user leaves for a competitor after a failed interaction.
+
+The Formula for Lost Opportunity:
+RevenueLost​=(T×CR)×AOV×P
+
+If HP gets 10,000 hits a month on that dead page, and only 20% of those users have the author's level of patience to keep trying, you are looking at an immediate loss of:
+(10,000×3.6%)×$2,000×80%=$576,000 per month in "Silent Churn."
+
+
