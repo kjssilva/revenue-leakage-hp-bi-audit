@@ -42,5 +42,17 @@ As a BI Consultant, I proposed the following technical interventions:
    *Solution: A Power BI/Tableau dashboard tracking Time-to-Information (TTI) for high-intent URLs.
    *Goal: Immediate visibility into broken funnels before they reach the quarterly earnings report.# revenue-leakage-hp-bi-audit
 
+ ## 📂 Repository Guide
+
+   /code: Python simulations
+
+   /evidence: Links and screenshots taken from HP's website
+
+   /notes: Raw data assumptions and percentage calculations.
+
+   /visual_graphic_analysis: Image of the graphic visualization
+
+  
+
 ##  Visualization
 ![Chart](visual_graphic_analysis/visual_analysis.png)
